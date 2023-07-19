@@ -412,3 +412,58 @@ border-color: #FF42A5;
 height: 40px;
 }
 /* games button started */
+/* footer-section :start */
+footer{
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #0B0223;
+    color: white;
+    height: 380px;
+}
+.footer-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.footer-title{
+    font-family: Work Sans;
+    font-size: 25px;
+    font-weight: 700;
+}
+footer ul{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 50px 0px;
+}
+footer img{
+    width: 30px;
+    cursor: pointer;
+}
+footer li{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 14px;
+}
+.social-icons{
+    display: grid;
+    grid-template-columns: repeat(6,0fr);
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    
+}
+.bp{
+    color: rgba(255, 255, 255, 0.60);
+}
+footer p{
+    color: rgba(255, 255, 255, 0.60);
+    font-weight: 500;
+    font-size: 12px;
+}
+/* footer section :end */
