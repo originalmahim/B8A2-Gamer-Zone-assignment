@@ -278,4 +278,46 @@ height: auto;
     display: block;
   }
   /* Online Games Funny Videos :end */
-  
+  /* Play Instantly started */
+.section-3{
+    margin: 60px 220px;
+    height: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.play-instant{
+    text-align: right;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: right;
+    margin-bottom: 0px;
+}
+.img-sec-2{
+    padding-left: 280px;
+}
+
+.title-card-1{
+    /* padding-bottom: 60px; */
+    margin-left: 280px;
+}
+.Rectangle-55{
+    width: 454.833px;
+    height: 480px;
+    border-radius: 8px;
+}
+.vb{
+    margin: -180px -80px;
+    }
+.ff{
+    border-radius: 5px;
+    border: 1px solid #FFF;
+    background: lightgray 0px -0.304px / 100% 117.229% no-repeat;
+    width: 200px;
+    height: 240px;
+} 
+.zami{
+    text-align: right;
+}
+/* Play Instantly ended */
