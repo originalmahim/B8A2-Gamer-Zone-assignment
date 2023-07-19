@@ -288,3 +288,377 @@ flex-shrink: 0;
         width: 20px;
     }
 }
+@media screen and (min-width: 577px) and (max-width: 992px){
+    nav{
+        height: 30px 0px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0px 20px;
+    }
+    /* nav-area ended */
+    /* section-one :started */
+    .one-container{
+        display: flex;
+    }
+    .text-section{
+        background-image: url('images/Group\ 14.png');
+        background-repeat: no-repeat;
+        width: 700px;
+        height: 500px;
+        /* justify-content: center;
+        align-items: center; */
+         padding-left: 20px;
+        padding-top: 80px; 
+    } 
+    .group-18{
+        width: 400px;
+        height: auto;
+    }
+        .img-section-one{
+        margin-right: 20px;
+    }
+    /* section-one ended */
+    
+    /* section two :started */
+    .section-2{
+        padding-right: 20px;
+        padding-left: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;
+        background: white;
+    }
+    .pngwing{
+        width: 580px;
+    }
+    
+       .text-title-2{
+        font-size: 48px;
+        font-style: normal;
+        font-wei.text-title-2ght: 700;
+        line-height: normal;
+        background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .an{
+        color: #534C64;
+        text-align: center;
+        font-family: Work Sans;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px; /* 166.667% */
+        width: 520px;
+    }
+    .unleash{
+        margin-top: 0px;
+        text-align: center;
+        color: #534C64;
+        font-family: Work Sans;
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 45px;
+    }
+    .btn-rigth{
+        text-align: center;
+        
+    }
+    .btn-3{
+        text-transform: uppercase;
+        color: white;
+        border: none;
+        width: 120px;
+        height: 40px;
+        border-radius: 48px;
+        background: #FF42A5;
+        cursor: pointer;
+    }
+    .btn-3:hover{
+        background-color: white;
+        color: #FF42A5;
+    }
+    .color{
+        background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 48px;
+        font-weight: 700;
+        
+    }
+    /* section-2 :end */
+    /* Online Games Funny Videos :start */
+    .games-title{
+        text-align: center;
+        color: #0B0223;
+        font-size: 48px;
+        font-weight: 700;
+        margin-bottom: 0px;
+    }
+    .fimages{
+        width: 320px;
+        height: 380px;
+    }
+    .g-p{
+        text-align: center;
+    }
+    .images{
+        padding-left: 60px;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        justify-content: center;
+        align-items: center;
+        gap: 25px;
+    }
+    .games-p{
+        text-align: center;
+    }
+    .items-3 {
+        position: relative;
+        display: inline-block;
+      }
+      .fimages {
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        margin-top: 50px;
+        border-radius: 14px;
+        background-color: rgba(0, 0, 0, 0.5);
+        text-align: center;
+      }
+      
+      .play-button {
+        display: none;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 1;
+      }
+      .watch-now {
+        display: none;
+        position: absolute;
+        bottom: 150px;
+        left: 50%;
+        color: #FF42A5;
+        transform: translateX(-50%);
+        font-size: 16px;
+        font-weight: bold;
+        z-index: 1;
+      }
+      .items-3:hover .hover-content {
+        display: block;
+      }
+      .items-3:hover .fimages {
+        filter: brightness(20%);
+        border-radius: 12px;
+      }
+      .items-3:hover .play-button,
+      .items-3:hover .watch-now {
+        display: block;
+      }
+      /* Online Games Funny Videos :end */
+      
+      
+    /* Play Instantly started */
+    .section-3{
+        margin: 60px 20px;
+        height: 650px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .play-instant{
+    
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 30px;
+        text-align: left;
+        margin-bottom: 0px;
+    }
+    .img-sec-2{
+        padding-left: 20px;
+    }
+    .title-card-1{
+        /* padding-bottom: 60px; */
+        margin-left: 20px;
+        text-align: left;
+    }
+    .Rectangle-55{
+        width: 454.833px;
+        height: 480px;
+        border-radius: 8px;
+    }
+    .vb{
+        margin: -180px -80px;
+        }
+    .ff{
+        border-radius: 5px;
+        border: 1px solid #FFF;
+        background: lightgray 0px -0.304px / 100% 117.229% no-repeat;
+        width: 200px;
+        height: 240px;
+    } 
+    .zami{
+        text-align: left;
+    }
+    /* Play Instantly ended */
+    /* careers section started  */
+    .kheladhula{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        background-color: #FF42A5;
+    }
+    .habijabi{
+        text-align: left;
+        color: white;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .khamakha{
+        display: flex;
+        justify-content: space-between;
+    }
+    .khamakha-1{
+        text-align: left;
+    }
+    .khamakha-2{
+        text-align: right;
+    }
+    .See-all-positions{
+        width: 203px;
+        height: 50px;
+        align-items: center;
+        gap: 10px;
+        border: none;
+        justify-content: center;
+        border-radius: 48px;
+        background: #FFF;
+        color: #FF42A5;
+    }
+    .habijabi-img{
+        padding-left: 280px;
+    }
+    .group-65{
+        width: 613px;
+    height: auto;
+    flex-shrink: 0;
+    }
+    .Careers{
+        text-align: center;
+        font-size: 48px;
+    }
+    .Careers-p{
+        color: #FFF;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 30px;
+    }
+    /* careers section ended  */
+    /* games button started */
+    .game-btn{
+        height: 300px;
+        background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+    }
+    .game-curnival{
+        text-align: center;
+         justify-content: center;
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        flex-basis: 300px;
+        padding: 60px 20px;
+    }
+    .butto{
+        width: 203px;
+        height: 50px;
+        border-radius: 50px;
+        background: #FFF;
+        cursor: pointer;
+        border: 1px solid transparent;
+    }
+    #Audio{
+        width: 243px;
+    }
+    .butto:hover{
+        color: #FF42A5;
+    border-color: #FF42A5;
+    }
+    .game-collection{
+        display: flex;
+        /* justify-content: center; */
+        /* align-items: center; */
+        text-align: center;
+        gap: 10px;
+    }
+    .game-logo{
+        width: 40px;
+    height: 40px;
+    }
+    /* games button started */
+    /* footer-section :start */
+    footer{
+        padding: 40px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background: #0B0223;
+        color: white;
+        height: 380px;
+    }
+    .footer-logo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+    .footer-title{
+        font-family: Work Sans;
+        font-size: 25px;
+        font-weight: 700;
+    }
+    footer ul{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: 50px 0px;
+    }
+    footer img{
+        width: 30px;
+        cursor: pointer;
+    }
+    footer li{
+        color: white;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size: 14px;
+    }
+    .social-icons{
+        display: grid;
+        grid-template-columns: repeat(6,0fr);
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        
+    }
+    .bp{
+        color: rgba(255, 255, 255, 0.60);
+    }
+    footer p{
+        color: rgba(255, 255, 255, 0.60);
+        font-weight: 500;
+        font-size: 12px;
+    }
+    /* footer section :end */
+}
+    
