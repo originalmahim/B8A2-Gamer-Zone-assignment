@@ -321,3 +321,55 @@ height: auto;
     text-align: right;
 }
 /* Play Instantly ended */
+/* careers section started  */
+.kheladhula{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #FF42A5;
+}
+.habijabi{
+    text-align: left;
+    color: white;
+    margin-left: 280px;
+}
+.khamakha{
+    display: flex;
+    justify-content: space-between;
+}
+.khamakha-1{
+    text-align: left;
+}
+.khamakha-2{
+    text-align: right;
+}
+.See-all-positions{
+    width: 203px;
+    height: 50px;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    justify-content: left;
+    align-items: flex-start;
+    border-radius: 48px;
+    background: #FFF;
+    color: #FF42A5;
+}
+.habijabi-img{
+    padding-left: 280px;
+}
+.group-65{
+    width: 913px;
+height: auto;
+flex-shrink: 0;
+}
+.Careers{
+    font-size: 48px;
+}
+.Careers-p{
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 30px;
+}
+/* careers section ended  */
